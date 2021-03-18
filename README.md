@@ -1,2 +1,1 @@
-# ns
-record netty study
+# ns (record netty study)
